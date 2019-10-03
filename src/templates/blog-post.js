@@ -2,10 +2,13 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import SEO from "../components/seo"
+import RecomendedPosts from "../components/RecomendedPosts"
 import * as S from "../components/Post/styled"
 
-const BlogPost = ({ data }) => {
+const BlogPost = ({ data, pageContext }) => {
   const post = data.markdownRemark
+  const next = pageContext.nextPost
+  const previous = pageContext.previousPost
   return (
     <Layout>
       <SEO title={post.frontmatter.title} />
@@ -19,6 +22,7 @@ const BlogPost = ({ data }) => {
       <S.MainContent>
         <div dangerouslySetInnerHTML={{ __html: post.html }}></div>
       </S.MainContent>
+      <RecomendedPosts next={next} previous={previous}></RecomendedPosts>
     </Layout>
   )
 }
