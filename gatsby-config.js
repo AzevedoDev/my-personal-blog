@@ -3,8 +3,8 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `Pedro Azevedo`,
-    position: "Frontend Developer",
-    description: `blog talking about everything`,
+    position: "Frontend Developer at Midway",
+    description: `Um blog que fala sobre tecnologia`,
     author: `@azevedoDev`,
   },
   plugins: [
@@ -77,8 +77,8 @@ module.exports = {
         name: `Blog`,
         short_name: `Blog`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
+        background_color: `#16202c`,
+        theme_color: `#16202c`,
         display: `minimal-ui`,
         icon: `src/images/icon.svg`,
       },
