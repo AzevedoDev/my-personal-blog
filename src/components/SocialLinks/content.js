@@ -1,5 +1,5 @@
 const handle = "azevedodev"
-
+const ytHandle = "channel/UCPRDjZNf11NVosiUHkm6-Cg"
 const links = [
   {
     label: "Github",
@@ -11,7 +11,7 @@ const links = [
   },
   {
     label: "Youtube",
-    url: `https://www.youtube.com/${handle}`,
+    url: `https://www.youtube.com/${ytHandle}`,
   },
   {
     label: "Instagram",
