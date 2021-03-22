@@ -1,4 +1,4 @@
-const handle = "johndoe"
+const handle = "azevedodev"
 
 const links = [
   {
@@ -16,10 +16,6 @@ const links = [
   {
     label: "Instagram",
     url: `https://www.instagram.com/${handle}`,
-  },
-  {
-    label: "Unsplash",
-    url: `https://unsplash.com/${handle}`,
   },
 ]
 

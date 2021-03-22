@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: AzevedoDev/my-personal-blog
+  branch: master
+  site_domain: https://azevedo.dev
