@@ -2,7 +2,7 @@ backend:
   name: github
   repo: AzevedoDev/my-personal-blog
   branch: master
-  site_domain: https://azevedo.dev
+  site_domain: azevedo.dev
 
 publish_mode: editorial_workflow
 media_folder: "static/assets/img"
