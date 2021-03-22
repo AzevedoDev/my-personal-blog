@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import { TransitionPortal } from "gatsby-plugin-transition-link"
 
 import Sidebar from "../Sidebar"
@@ -7,8 +6,11 @@ import MenuBar from "../MenuBar"
 
 import * as S from "./styled"
 import GlobalStyles from "../../styles/global"
+type Props = {
+  children: React.ReactNode
+}
 
-const Layout = ({ children }) => {
+const Layout = ({ children }: Props) => {
   return (
     <S.LayoutWrapper>
       <GlobalStyles />
@@ -21,10 +23,6 @@ const Layout = ({ children }) => {
       </TransitionPortal>
     </S.LayoutWrapper>
   )
-}
-
-Layout.propTypes = {
-  children: PropTypes.node.isRequired,
 }
 
 export default Layout

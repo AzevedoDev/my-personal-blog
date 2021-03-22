@@ -11,8 +11,19 @@ import getThemeColor from "../../utils/getThemeColor"
 
 import * as S from "./styled"
 
+declare global {
+  interface Window {
+    __theme: string | undefined
+    __display: any
+    __onThemeChange: () => void
+    __onDisplayChange: () => void
+    __setPreferredTheme: (isDarkMode: "light" | "dark") => void
+    __setPreferredDisplay: (isListMode: "grid" | "list") => void
+  }
+}
+
 const MenuBar = () => {
-  const [theme, setTheme] = useState(null)
+  const [theme, setTheme] = useState<string | undefined>(undefined)
   const [display, setDisplay] = useState(null)
 
   const isDarkMode = theme === "dark"
