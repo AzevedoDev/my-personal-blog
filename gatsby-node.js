@@ -21,6 +21,19 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 }
 
+exports.sourceNodes = ({ actions, schema }) => {
+  const { createTypes } = actions
+
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      image: String
+    }
+    type MarkdownRemark implements Node {
+      frontmatter: MarkdownRemarkFrontmatter
+    }
+  `)
+}
+
 // To create the posts pages
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
@@ -63,7 +76,7 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     const posts = result.data.allMarkdownRemark.edges
     result.data.allMarkdownRemark.edges.forEach(({ node, next, previous }) => {
       createPage({
