@@ -10,11 +10,11 @@ thumbnail: https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMj
 ![Html code block](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80)
 
 Olá Jovem!\
-Seja bem-vindx ao meu humilde blog, não tem lá muita coisa ainda, mas com o tempo pretendo preencher esse pequeno site com bastante conhecimento, tanto o que ando aprendendo, quanto os que eu já sei.
+Seja bem-vinde ao meu humilde blog, não tem lá muita coisa ainda, mas com o tempo pretendo preencher esse pequeno site com bastante conhecimento, tanto o que ando aprendendo, quanto os que eu já sei.
 
 Estou fazendo como meu amigo [Willian Justen](https://willianjusten.com.br/), ele geralmente escreve os posts escutando alguma música, atualmente estou fazendo algumas descobertas relacionados a bandas, zapeando meu [Instagram](https://www.instagram.com/azevedodev/) eu encontrei uma banda muito boa chamada [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS?si=eTV3jt_5RWSMVN01bmVr7g), eles tem uma pegada meio hardcore metal fury com hip-hop, bem legal de se ouvir enquanto está trabalhando, ou até mesmo no tempo de boa.
 
-Agora vamos ao assunto principal, p*or que eu tirei esse blog do fundo do baú?* A muito tempo eu comprei o curso do Will para aprender um pouco sobre Gatsby e Graphql e praticamente finalizei o curso, faltava poucas coisas a se fazer para por no ar, mas como todo bom desenvolvedxr de respeito, acaba deixando o projeto de lado e segue fazendo outras milhares de coisas e nunca termina aquilo que começou.
+Agora vamos ao assunto principal, p*or que eu tirei esse blog do fundo do baú?* A muito tempo eu comprei o curso do Will para aprender um pouco sobre Gatsby e Graphql e praticamente finalizei o curso, faltava poucas coisas a se fazer para por no ar, mas como toda pessoa desenvolvedora de respeito, acaba deixando o projeto de lado e segue fazendo outras milhares de coisas e nunca termina aquilo que começou.
 
 Esse final de semana, resolvi alguns pontos para minha carreira, como seguir somente uma frente, não ser um generalista JavaScript e sim um **Front-end Specialist**! Fica melhor para focar nos estudos, no momento eu tenho visto muito sobre testes unitários, usando praticamente tudo que tem no mercado para ver a diferença de um para o outro.
 
@@ -28,4 +28,4 @@ Bem, fazendo uma analise bem simples, ainda preciso finalizar algumas partes do 
 
 Muito obrigado por ter lido até aqui jovem, nos vemos na próxima!
 
-Foto do usuário [Florian Olivo](https://unsplash.com/@florianolv) no [Unsplah](https://unsplash.com/)
+Foto do usuário [Florian Olivo](https://unsplash.com/@florianolv) no [Unsplash](https://unsplash.com/)
