@@ -3,9 +3,10 @@ title: Primeiro Post!
 description: Falando um pouco da experiência de criar um blog
 date: 2021-03-22 12:00:25
 category: dev
-cackground: "#637a91"
+background: "#637a91"
 thumbnail: https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80
 ---
+
 Olá Jovem!\
 Seja bem-vindx ao meu humilde blog, não tem lá muita coisa ainda, mas com o tempo pretendo preencher esse pequeno site com bastante conhecimento, tanto o que ando aprendendo, quanto os que eu já sei.
 
@@ -23,14 +24,6 @@ Depois de resolver tudo, veio a parte de configurar o CMS do blog, no caso eu es
 
 Bem, fazendo uma analise bem simples, ainda preciso finalizar algumas partes do blog como o **Sobre Mim**, tentar fazer posts mensais(isso pode me cobrar), e corrigir alguns bugszinhos aqui ou ali que possa ter, e aos poucos ir mudando o layout, já que esse aqui deve ter uns 2000 iguais.
 
-
-
 Muito obrigado por ter lido até aqui jovem, nos vemos na próxima!
-
-
-
-
-
-
 
 Foto do usuário [Florian Olivo](https://unsplash.com/@florianolv) no [Unsplah](https://unsplash.com/)
