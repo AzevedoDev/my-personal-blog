@@ -2,6 +2,10 @@ import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
 
+type Props = {
+  background: string | undefined
+}
+
 export const PostItemLink = styled(AniLink)`
   color: var(--texts);
   display: flex;
@@ -39,7 +43,7 @@ export const PostItemWrapper = styled.section`
 
 export const PostItemTag = styled.div`
   align-items: center;
-  background: ${props =>
+  background: ${(props: Props) =>
     props.background ? props.background : "var(--highlight)"};
   border-radius: 50%;
   color: #fff;
