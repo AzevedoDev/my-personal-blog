@@ -16,13 +16,7 @@ interface Props {
   image?: string
 }
 
-function SEO({
-  description,
-  lang,
-  meta,
-  title,
-  image,
-}: Props): React.ReactNode {
+function SEO({ description, lang, meta, title, image }: Props) {
   const { site } = useStaticQuery(
     graphql`
       query {
