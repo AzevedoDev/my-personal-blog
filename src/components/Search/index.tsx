@@ -16,7 +16,8 @@ const Search = () => (
       searchClient={client}
       indexName={process.env.GATSBY_ALGOLIA_INDEX_NAME}
     >
-      <SearchBox translations={{ placeholder: "Pesquisar..." }} />
+      {/* eslint-disable-next-line jsx-a11y/no-autofocus */}
+      <SearchBox autoFocus translations={{ placeholder: "Pesquisar..." }} />
       <Stats
         translations={{
           stats(nbHits, timeSpentMs) {

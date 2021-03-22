@@ -5,6 +5,11 @@ import links from "./content"
 
 import * as S from "./styled"
 
+type ContentType = {
+  label: string
+  url: string
+}
+
 const SocialLinks = () => (
   <S.SocialLinksWrapper>
     <S.SocialLinksList>

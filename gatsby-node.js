@@ -21,6 +21,19 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 }
 
+exports.sourceNodes = ({ actions, schema }) => {
+  const { createTypes } = actions
+
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      image: String
+    }
+    type MarkdownRemark implements Node {
+      frontmatter: MarkdownRemarkFrontmatter
+    }
+  `)
+}
+
 // To create the posts pages
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
@@ -63,12 +76,12 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     const posts = result.data.allMarkdownRemark.edges
     result.data.allMarkdownRemark.edges.forEach(({ node, next, previous }) => {
       createPage({
         path: node.fields.slug,
-        component: path.resolve(`./src/templates/blog-post.js`),
+        component: path.resolve(`./src/templates/blog-post.tsx`),
         context: {
           // Data passed to context is available
           // in page queries as GraphQL variables.
@@ -83,7 +96,7 @@ exports.createPages = ({ graphql, actions }) => {
     Array.from({ length: numPages }).forEach((_, index) => {
       createPage({
         path: index === 0 ? `/` : `/page/${index + 1}`,
-        component: path.resolve("./src/templates/blog-list.js"),
+        component: path.resolve("./src/templates/blog-list.tsx"),
         context: {
           limit: postPerPage,
           skip: index * postPerPage,
