@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react"
 import { Home } from "styled-icons/boxicons-solid"
 import { SearchAlt2 as Search } from "styled-icons/boxicons-regular"
 import { UpArrowAlt as Arrow } from "styled-icons/boxicons-regular"
-import { Lightbulb as Light } from "styled-icons/fa-regular"
+import { LightBulb as Light } from "@styled-icons/entypo/LightBulb"
 import { Grid } from "styled-icons/boxicons-solid"
 import { ThList as List } from "styled-icons/typicons"
 
