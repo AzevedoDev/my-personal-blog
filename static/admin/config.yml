@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: AzevedoDev/my-personal-blog
-  branch: master
+  branch: main
   site_domain: azevedo.dev
 
 publish_mode: editorial_workflow

@@ -53,6 +53,7 @@ module.exports = {
               linkImagesToOriginal: false,
             },
           },
+          `gatsby-remark-images-anywhere`,
           "gatsby-remark-lazy-load",
           "gatsby-remark-prismjs",
         ],
@@ -91,6 +92,7 @@ module.exports = {
         allExtensions: true, // defaults to false
       },
     },
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
