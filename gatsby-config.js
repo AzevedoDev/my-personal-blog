@@ -16,6 +16,8 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-image`,
     `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-sitemap`,
+
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -76,8 +78,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Blog`,
-        short_name: `Blog`,
+        name: `Pedro Azevedo Blog`,
+        short_name: `<Azevedo />`,
         start_url: `/`,
         background_color: `#16202c`,
         theme_color: `#16202c`,
@@ -96,6 +98,6 @@ module.exports = {
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
