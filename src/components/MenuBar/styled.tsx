@@ -1,6 +1,7 @@
 import styled from "styled-components"
 import media from "styled-media-query"
 import AniLink from "gatsby-plugin-transition-link/AniLink"
+import transitions from "../../styles/transitions"
 
 export const MenuBarWrapper = styled.aside`
   align-items: center;
@@ -14,25 +15,39 @@ export const MenuBarWrapper = styled.aside`
   position: fixed;
   right: 0;
   width: 3.75rem;
-  transition: background 0.5s;
+  transition: ${transitions.ALL};
 
   ${media.lessThan("large")`
+    border: 0;
     border-top: 1px solid var(--borders);
-    bottom: 0;
+    bottom: -3px;
     flex-direction: row;
     height: auto;
     padding: 0;
+    padding-bottom: env(safe-area-inset-bottom);
     position: fixed;
     width: 100%;
   `}
 `
-
+export const MenuBarGroupDesktop = styled.div`
+  display: block;
+  ${media.lessThan("large")`
+    display: none;
+  `}
+`
 export const MenuBarGroup = styled.div`
   display: flex;
   flex-direction: column;
 
   ${media.lessThan("large")`
     flex-direction: row;
+  `}
+`
+
+export const MenuBarGroupMobile = styled.div`
+  display: none;
+  ${media.lessThan("large")`
+    display: block;
   `}
 `
 

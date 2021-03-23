@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react"
 import { Home } from "styled-icons/boxicons-solid"
 import { SearchAlt2 as Search } from "styled-icons/boxicons-regular"
 import { UpArrowAlt as Arrow } from "styled-icons/boxicons-regular"
+import { Menu } from "styled-icons/boxicons-regular"
 import { LightBulb as Light } from "@styled-icons/entypo/LightBulb"
 import { Grid } from "styled-icons/boxicons-solid"
 import { ThList as List } from "styled-icons/typicons"
@@ -22,12 +23,16 @@ declare global {
   }
 }
 
-const MenuBar = () => {
+const MenuBar = ({ setIsMenuOpen, isMenuOpen }) => {
   const [theme, setTheme] = useState<string | undefined>(undefined)
   const [display, setDisplay] = useState(null)
 
   const isDarkMode = theme === "dark"
   const isListMode = display === "list"
+
+  const openMenu = () => {
+    setIsMenuOpen(!isMenuOpen)
+  }
 
   useEffect(() => {
     setTheme(window.__theme)
@@ -65,6 +70,15 @@ const MenuBar = () => {
           </S.MenuBarItem>
         </S.MenuBarLink>
       </S.MenuBarGroup>
+
+      <S.MenuBarGroupMobile>
+        <S.MenuBarGroup>
+          <S.MenuBarItem title="Abrir Menu" onClick={openMenu}>
+            <Menu />
+          </S.MenuBarItem>
+        </S.MenuBarGroup>
+      </S.MenuBarGroupMobile>
+
       <S.MenuBarGroup>
         <S.MenuBarItem
           title="Mudar o tema"
