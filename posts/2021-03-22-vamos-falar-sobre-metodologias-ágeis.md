@@ -2,7 +2,7 @@
 title: Vamos falar sobre metodologias ágeis?
 description: Um pouco da minha experiencia, escrevi esse post quando ainda
   trabalhava na Concrete Solutions
-date: 2021-03-22 08:19:34
+date: 2021-03-23 02:48:28
 category: misc
 background: "#7AAB13"
 thumbnail: https://images.unsplash.com/photo-1518349619113-03114f06ac3a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
