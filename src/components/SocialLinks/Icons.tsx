@@ -3,6 +3,7 @@ import {
   Twitter,
   Youtube,
   Instagram,
+  LinkedinSquare as Linkedin,
 } from "styled-icons/boxicons-logos"
 
 const Icons = {
@@ -10,6 +11,7 @@ const Icons = {
   Twitter,
   Youtube,
   Instagram,
+  Linkedin,
 }
 
 export default Icons
