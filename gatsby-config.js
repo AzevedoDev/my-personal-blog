@@ -6,6 +6,7 @@ module.exports = {
     position: "Frontend Developer at Midway",
     description: `Um blog que fala sobre tecnologia`,
     author: `@azevedoDev`,
+    siteUrl: "https://azevedo.dev",
   },
   plugins: [
     `gatsby-plugin-styled-components`,

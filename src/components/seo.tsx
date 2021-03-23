@@ -25,6 +25,7 @@ function SEO({ description, lang, meta, title, image }: Props) {
             title
             description
             author
+            siteUrl
           }
         }
       }

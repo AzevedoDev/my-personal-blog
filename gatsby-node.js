@@ -51,6 +51,7 @@ exports.createPages = ({ graphql, actions }) => {
               date(locale: "pt-br", formatString: "DD [de] MMM [de] YYYY")
               description
               title
+              image
             }
             timeToRead
             wordCount {
