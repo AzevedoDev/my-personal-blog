@@ -7,11 +7,9 @@ category: misc
 background: "#7AAB13"
 thumbnail: https://images.unsplash.com/photo-1518349619113-03114f06ac3a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80
 ---
-O Post a seguir foi o primeiro que eu escrevi na minha vida, foi na época que trabalhei na [Concrete Solutions](https://medium.com/concretebr), corrigi algumas coisas, coloquei mais algumas visões que tenho depois de um ano trabalhando com esse tipo de metodologia.
+O Post a seguir foi o primeiro que eu escrevi na minha vida, foi na época que trabalhei na [Concrete Solutions](https://medium.com/concretebr), corrigi algumas coisas, coloquei mais algumas visões que tenho hoje em dia.
 
 Espero que curta essa leitura, eu fiz a correção ouvindo [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM?si=WG8lTojLQYCBb-PiCvCcoA) uma banda de heavy metal que eu simplesmente amo!
-
-
 
 Boa leitura!\
 \
@@ -61,7 +59,5 @@ Uma observação muito importante é comunicação sempre! Sempre esteja online 
 Mas o que eu gostaria de acrescentar é em caso tenha algum problema, seja ele pessoal ou profissional, levanta a mão e converse com a seu time, sejam eles seu Product Owner, Delivery Manager, Project Manager, Dev Team, eles vão dar um jeito de resolver essa barra com você! Se for um impedimento de terceiros por exemplo, e depender de um acesso, um serviço na AWS/Azure ou de qualquer outra plataforma, essas pessoas estão ali para poder te ajudar. Caso eles não tenham uma solução, eles saberão a quem recorrer. 
 
 Lembre-se, nem toda chamada de atenção que você ou o time leva é para o mal de vocês. Como um time de futebol, é necessário o trabalho em equipe para poder vencer os desafios que nos foram impostos. Pegue isso, veja os pontos que está errando e melhore. Caso tenha dificuldade de resolver algum ponto específico, tem o seu gestor(a), conselheiro(a), coordenador(a), um(a) amigo(a) para te ajudar a melhorar nisso. 
-
-Meu nome é Pedro Azevedo e trabalho Concrete Solutions. 
 
 Obrigado!
