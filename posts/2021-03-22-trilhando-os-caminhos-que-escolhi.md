@@ -18,4 +18,14 @@ Hoje o papo vai ser mais sobre carreira, como vocês podem ver no sobre mim, eu 
 
 Mas Pedron, como isso pode afetar o seu rendimento no trabalho? o que te deixar tão abatido para não te fazer render o que você rendia a meses atrás? Creio que todos nós precisamos de propósitos na vida, só viver para pagar boleto não é o tipo de coisa que eu recomendaria e isso não é diferente da sua carreira profissional.
 
-E nós como pessoas desenvolvedoras, precisamos focar
+Nós como pessoas desenvolvedoras, precisamos tem alguns cuidados na hora de escolher alguns caminhos, muitos amigos escolheram virar especialistas, hoje eu tenho o foco da virar Tech lead um dia, mas para isso acontecer, eu preciso ser especialista em algo, seja isso na linguagem que eu trabalhe, ou no desenvolvimento de aplicações web e é aqui que começamos a falar sobre as escolhas da minha carreira.
+
+Durante algum tempo eu fui anotando algumas coisas que me faltavam como profissional, como software developer, são skills importantes para a evolução da carreira, seja ela na parte da comunicação ou na parte técnica, e seguindo de um plano de estudos, essas são as habilidades que eu preciso melhorar.
+
+## Javascript
+
+Sabemos que quando trabalhamos com front-end precisamos dominar o javascript, no começo não precisamos saber de tudo mas sim o essencial para conseguir desenvolver algumas funcionalidades, estar familiarizado com as palavras reservadas da linguagem, como ela se comporta em alguns aspectos e mais algumas outras coisas se aprende com o tempo.
+
+Hoje me encontro na fase de aprender como funciona o JS funciona por debaixo dos panos, entender como funciona o event loop, pilhas, arrays, prototype dos objetos, e para isso eu tenho lido o livro da [@loiane](https://twitter.com/loiane) sobre estruturas de dados e algoritmos com JS segunda versão!
+
+![Livro estrutura de dados e algoritmo com javascript da loiane](https://images-na.ssl-images-amazon.com/images/I/71KGa1y8eaL.jpg "Livro  estrutura de dados da loiane")
