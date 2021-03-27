@@ -5,7 +5,7 @@ description: Falando um pouco sobre o roadmap de estudos que vou trilhar para
 date: 2021-03-22 07:21:50
 category: dev
 background: "#637a91"
-thumbnail: https://images.unsplash.com/photo-1471958680802-1345a694ba6d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1432&q=80
+thumbnail: /static/assets/img/photo-1471958680802-1345a694ba6d.jfif
 ---
 Olá jovem! 
 
