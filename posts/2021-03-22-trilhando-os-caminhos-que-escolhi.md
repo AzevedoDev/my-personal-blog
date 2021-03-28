@@ -11,7 +11,7 @@ thumbnail: /static/assets/img/road.png
 Olá jovem!
 
 Como estão as coisas? tudo bem? Espero que sim.\
-Muito obrigado por voltar a visitar meu humilde Blog! Já fiz algumas melhorias, como passar tudo para Typescript, ajustar alguns plugins do Gatsby, fixando a verão do NodeJS lá no Netlify e se quiser dar uma acompanhada no que alterei segue esse [](https://github.com/AzevedoDev/my-personal-blog/commits/developer)[repositório](https://github.com/AzevedoDev/my-personal-blog).
+Muito obrigado por voltar a visitar meu humilde Blog! Já fiz algumas melhorias, como passar tudo para Typescript, ajustar alguns plugins do Gatsby, fixando a versão do NodeJS lá no Netlify e se quiser dar uma acompanhada no que alterei segue esse [](https://github.com/AzevedoDev/my-personal-blog/commits/developer)[repositório](https://github.com/AzevedoDev/my-personal-blog).
 
 Para não sair muito do costume, hoje eu estou ouvindo a banda [Bad Wolves](spotify:artist:0eI3X5rAzHRZVe5FPk4MN1) que é uma pegada heavy metal/groove metal, algo inspirado no Pantera, Sepultura e Fear Factory, o album em questão que estou ouvindo é o ***N.A.T.I.O.N,*** depois de uma olhada se curtir esse tipo de música.
 
@@ -56,8 +56,6 @@ Muitos desses aprendizados eu vou utilizar aqui no blog, justamente para poder t
 ### Design Patterns
 
 Esse é um assunto que eu tenho que me aprofundar com carinho, muitas das vezes eu sigo padrões que talvez não sejam as melhores para aquele tipo de projeto, dentro desses padrões peguei SOLID para estudar e ainda tem mais alguns outros porem esse não é meu foco agora, mas está no road map.
-
-
 
 ## Conclusão
 
