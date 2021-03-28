@@ -1,19 +1,19 @@
 ---
-title: Trilhando os caminhos que escolhi
+title: Front-end Specialist, caminho que escolhi trilhar
 description: Falando um pouco sobre o roadmap de estudos que vou trilhar para
-  alcançar o nível desejado  como pessoa desenvolvedora
-date: 2021-03-22 07:21:50
+  alcançar o nível desejado como pessoa desenvolvedora especializada em
+  front-end
+date: 2021-03-27 10:49:29
 category: dev
 background: "#637a91"
 thumbnail: /static/assets/img/road.png
 ---
-
 Olá jovem!
 
 Como estão as coisas? tudo bem? Eu espero que sim.\
 Muito obrigado por voltar a visitar meu humilde Blog! Já fiz algumas melhorias, como passar tudo para Typescript, ajustar alguns plugins do Gatsby, fixando a verão do NodeJS lá no Netlify e se quiser dar uma acompanhada no que alterei segue esse [](https://github.com/AzevedoDev/my-personal-blog/commits/developer)[repositório](https://github.com/AzevedoDev/my-personal-blog).
 
-Para não sair muito do costume, hoje eu estou ouvindo a banda [Bad Wolves](spotify:artist:0eI3X5rAzHRZVe5FPk4MN1) que é uma pegada heavy metal/groove metal, algo inspirado no Pantera, Sepultura e Fear Factory, o album em questão que estou ouvindo é o **_N.A.T.I.O.N,_** depois de uma olhada se curtir esse tipo de música.
+Para não sair muito do costume, hoje eu estou ouvindo a banda [Bad Wolves](spotify:artist:0eI3X5rAzHRZVe5FPk4MN1) que é uma pegada heavy metal/groove metal, algo inspirado no Pantera, Sepultura e Fear Factory, o album em questão que estou ouvindo é o ***N.A.T.I.O.N,*** depois de uma olhada se curtir esse tipo de música.
 
 Hoje o papo vai ser mais sobre carreira, como vocês podem ver no sobre mim, eu resolvi que seria especialista em front-end, mas como eu posso definir que vou ser especialista em algo se eu mal sei o que quero da minha vida? Explico, nesses últimos meses, eu andei passando por alguns problemas de performance no trabalho, rendi bem menos do que sou costumado a render, se me perguntarem o motivo, eu sei exatamente o que é, **falta de plano de carreira.**
 
@@ -31,7 +31,7 @@ Hoje me encontro na fase de aprender como funciona o JS funciona por debaixo dos
 
 > ![Livro estrutura de dados e algoritmo com javascript da loiane](https://images-na.ssl-images-amazon.com/images/I/71KGa1y8eaL.jpg "Livro  estrutura de dados da loiane")
 
-Além desta leitura, estou fazendo o curso de Expert Javascript do [Erick Wendel](https://twitter.com/erickwendel_), o conteúdo que é passado neste curso que ele faz é muito baseado em como o node funciona e tem uma pegada bem forte de back-end, mas usa muito de logica de programação em toda as aulas, então você acaba pegando alguns casos do dia-a-dia e vai entendo como o pessoal que trabalha com back-end resolve aquele tipo de problema, o que me ajuda como front-end a ser mais compreensivo nas entregas que me são feitas, e ainda mais ajudar a discutir melhorias em alguns pontos, assim alinhando bem com o backend e fazendo o fluxo de trabalho ser melhor.
+Além desta leitura, estou fazendo o curso de Expert Javascript do [Erick Wendel](https://twitter.com/erickwendel_), o conteúdo que é passado neste curso que ele faz é muito baseado em como o node funciona e tem uma pegada bem forte de back-end, mas usa muito de logica de programação em toda as aulas, então você acaba pegando alguns casos do dia-a-dia e vai entendo como o pessoal que trabalha com back-end resolve aquele tipo de problema, o que me ajuda como front-end a ser mais compreensivo nas entregas que me são feitas, e ainda mais ajudar a discutir melhorias em alguns pontos, assim alinhando bem com o back-end e fazendo o fluxo de trabalho ser melhor.
 
 > ![Javascript avançado do Erick Wendel](/static/assets/img/image_2021-03-27_21-04-05.png "Javascript avançado do Erick Wendel")
 
@@ -52,3 +52,16 @@ Está no meu foco também fazer o curso também do Willian, o [React Avançado](
 Nessa mesma trilha, para poder firmar mais os conhecimentos, pretendo adquirir o curso de testes do [@Fabio Vedovelli](https://twitter.com/vedovelli74) que parece ser muito completo também.
 
 Muitos desses aprendizados eu vou utilizar aqui no blog, justamente para poder treinar tudo isso que estou aprendendo, sempre bom lembrar que programar é 80% prática, é claro que esse valor pode variar, mas a prática é o que te faz ir mais longe!
+
+### Design Patterns
+
+Esse é um assunto que eu tenho que me aprofundar com carinho, muitas das vezes eu sigo padrões que talvez não sejam as melhores apara aquele tipo de projeto, dentro desses padrões, eu peguei SOLID para estudar, ainda tem mais alguns outros, mas esse não é meu foco agora, mas está no road map.
+
+
+
+## Conclusão
+
+Existem muitas coisas que eu ainda preciso aprender e com o tempo devem sair novas versões desta lista para poder ir se adaptando com a evolução continua que nós de T.I sabemos como funciona.
+
+\
+Se quiser trocar uma ideia comigo sobre esse post, me chama no Twitter ou no Linkedin!
