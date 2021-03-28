@@ -1,6 +1,9 @@
 const path = require("path")
 const { createFilePath } = require(`gatsby-source-filesystem`)
-
+const { fmImagesToRelative } = require("gatsby-remark-relative-images-v2")
+exports.onCreateNode = ({ node }) => {
+  fmImagesToRelative(node)
+}
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   // Ensures we are processing only markdown files

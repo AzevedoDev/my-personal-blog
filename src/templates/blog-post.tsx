@@ -35,6 +35,7 @@ const BlogPost = ({ data, pageContext }) => {
 export const query = graphql`
   query Post($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
+      html
       fields {
         slug
       }
@@ -44,7 +45,6 @@ export const query = graphql`
         date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
         image
       }
-      html
       timeToRead
     }
   }
