@@ -3,7 +3,7 @@ title: Front-end Specialist, caminho que escolhi trilhar
 description: Falando um pouco sobre o roadmap de estudos que vou trilhar para
   alcançar o nível desejado como pessoa desenvolvedora especializada em
   front-end
-date: 2021-03-27 10:49:29
+date: 2021-03-28 11:37:18
 category: dev
 background: "#637a91"
 thumbnail: /static/assets/img/road.png
