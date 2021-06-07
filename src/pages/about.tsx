@@ -42,14 +42,21 @@ const AboutPage = () => (
           rel="noopener noreferrer"
         >
           Concrete Solutions
-        </a>
-        , Atualmente estou na{" "}
+        </a>,
         <a
           href="https://www.midway.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Midway
+        </a>
+        , Atualmente estou na{" "}
+        <a
+          href="https://www.brainn.co/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Brainn.co
         </a>
         . Tenho muita facilidade de aprender e estou aprimorando a capacidade de
         compartilhar, como todo bom autodidata, organizo meus estudo de acordo
