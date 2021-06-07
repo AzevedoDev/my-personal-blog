@@ -3,7 +3,7 @@ const queries = require("./src/utils/algolia_queries")
 module.exports = {
   siteMetadata: {
     title: `Pedro Azevedo`,
-    position: "Frontend Developer at Midway",
+    position: "Frontend Developer at Brainn.co",
     description: `Um blog que fala sobre tecnologia`,
     author: `@azevedoDev`,
     siteUrl: "https://azevedo.dev",
