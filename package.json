@@ -10,7 +10,7 @@
     "webpack": "^5.24.2"
   },
   "dependencies": {
-    "algoliasearch": "^4.8.6",
+    "algoliasearch": "^4.9.3",
     "dotenv": "^8.2.0",
     "gatsby": "^3.1.1",
     "gatsby-image": "^3.1.0",
